@@ -1,0 +1,17 @@
+# http://git-scm.com/docs/gitignore
+
+ # Mac
+.DS_Store
+
+# PyCharm
+.idea
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Python
+*.pyc
+__pycache__
+
+# Pytest
+.pytest_cache
